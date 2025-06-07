@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Employee-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Employee-Payroll-Management-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-Boot-Examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-Employee-Management-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Store-Order-Fulfilment-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/distyles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/employee-management-webapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/introduction-to-spring-dependency-injection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/journaldev" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/servlet-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-restful-employee-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-webapp-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-hateoas-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-mvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tut-rest" vcs="Git" />
+  </component>
+</project>
